@@ -1,0 +1,6 @@
+Revision history for Perl extension Term::ANSIColor::Simple
+
+0.01    Fri Nov  5 03:01:05 2010
+        - original version
+0.02    Sun Nov  7 07:21:05 2010
+        - note -> diag
